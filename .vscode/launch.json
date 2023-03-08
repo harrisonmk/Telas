@@ -42,7 +42,10 @@
 		},
 		{
 			"label": "u_Get"
+		},
+		{
+			"label": "u_ComboBox"
 		}
 	],
-	"lastProgramExecuted": "u_Get"
+	"lastProgramExecuted": "u_ComboBox"
 }
