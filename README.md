@@ -25,3 +25,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/20427134/223646200-d9cac864-b44c-417c-b365-781f229923ab.jpg" width="700px" />
 </div>
+
+##  Tela 8 - MultiGet
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/223646200-d9cac864-b44c-417c-b365-781f229923ab.jpg" width="700px" />
+</div>
