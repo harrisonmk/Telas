@@ -4,15 +4,22 @@ User Function tFolder1()
 Local oDlg    
 Local oFolder
      
-DEFINE DIALOG oDlg TITLE "Exemplo de FOLDER" FROM 0,0 TO 600,800 PIXEL
+DEFINE DIALOG oDlg TITLE "Tela Customizada" FROM 0,0 TO 600,800 PIXEL
  
 @ 10,15 FOLDER oFolder SIZE 260, 200 OF oDlg  PIXEL
  
-oFolder:AddItem("Aba 01",.T.)
-oFolder:AddItem("Aba 02",.T.)
+// adiciona as abas
+oFolder:AddItem("Pasta 01",.T.)
+oFolder:AddItem("Pasta 02",.T.)
+oFolder:AddItem("Pasta 03",.T.)
+oFolder:AddItem("Pasta 04",.T.)
+oFolder:AddItem("Pasta 05",.T.)
  
 @ 10,10 SAY "Texto na Aba 01" OF oFolder:aDialogs[1] PIXEL
 @ 10,10 SAY "Texto na Aba 02" OF oFolder:aDialogs[2] PIXEL
+@ 10,10 SAY "Texto na Aba 03" OF oFolder:aDialogs[3] PIXEL
+@ 10,10 SAY "Texto na Aba 04" OF oFolder:aDialogs[4] PIXEL
+@ 10,10 SAY "Texto na Aba 05" OF oFolder:aDialogs[5] PIXEL
          
 oFolder:SetOption(1)
  

@@ -18,7 +18,31 @@
 		},
 		{
 			"label": "u_MsPanel"
+		},
+		{
+			"label": "u_Folder"
+		},
+		{
+			"label": "u_tFolder1"
+		},
+		{
+			"label": "u_tFolder2"
+		},
+		{
+			"label": "u_Encho"
+		},
+		{
+			"label": "u_Enchoi"
+		},
+		{
+			"label": "u_Cho"
+		},
+		{
+			"label": "sigamdi"
+		},
+		{
+			"label": "u_Get"
 		}
 	],
-	"lastProgramExecuted": "u_BOTAO"
+	"lastProgramExecuted": "u_Get"
 }
