@@ -35,3 +35,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/20427134/223696042-db49f31f-5cae-454d-a19f-9bc2ccfa291d.jpg" width="700px" />
 </div>
+
+##  Tela 8 - CheckBox
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/223696042-db49f31f-5cae-454d-a19f-9bc2ccfa291d.jpg" width="700px" />
+</div>
