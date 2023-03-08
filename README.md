@@ -43,5 +43,5 @@
 
 ##  Tela 10 - Radio Button
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223795405-daca06cc-dbd2-456c-9752-f2316634d7da.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/223803757-23676c18-1cad-4064-bfa1-b928fdaa62f2.jpg" width="700px" />
 </div>
