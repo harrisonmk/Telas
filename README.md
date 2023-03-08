@@ -28,7 +28,7 @@
 
 ##  Tela 7 - Data
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223696042-db49f31f-5cae-454d-a19f-9bc2ccfa291d.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/223788632-31b0d142-dea6-47e8-9392-d7b0f17069c6.jpg" width="700px" />
 </div>
 
 ##  Tela 8 - MultiGet
