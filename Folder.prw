@@ -22,8 +22,12 @@ oFolder:AddItem("Pasta 05",.T.)
 @ 10,10 SAY "Texto na Aba 05" OF oFolder:aDialogs[5] PIXEL
          
 oFolder:SetOption(1)
+
+@ 160, 180 BUTTON "Botão Para Sair" SIZE 070, 020 PIXEL OF oDlg ACTION (oDlg:End())
  
 ACTIVATE DIALOG oDlg CENTER
+
+
  
 Return
  
