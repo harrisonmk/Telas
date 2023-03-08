@@ -55,6 +55,4 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/20427134/223830810-a1b4d3d7-b9a6-4ad3-bdce-ddae59b9a4d3.jpg" width="700px" />
 </div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223830810-a1b4d3d7-b9a6-4ad3-bdce-ddae59b9a4d3.jpg" width="700px" />
-</div>
+
