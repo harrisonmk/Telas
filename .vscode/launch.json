@@ -54,7 +54,10 @@
 		},
 		{
 			"label": "u_CheckBox"
+		},
+		{
+			"label": "u_Radio"
 		}
 	],
-	"lastProgramExecuted": "u_CheckBox"
+	"lastProgramExecuted": "u_Radio"
 }
