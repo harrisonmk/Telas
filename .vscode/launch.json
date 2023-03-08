@@ -63,7 +63,13 @@
 		},
 		{
 			"label": "u_msBrGet"
+		},
+		{
+			"label": "u_TWBrose"
+		},
+		{
+			"label": "u_TWBrowse"
 		}
 	],
-	"lastProgramExecuted": "u_msBrGet"
+	"lastProgramExecuted": "u_TWBrowse"
 }
