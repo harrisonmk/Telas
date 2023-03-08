@@ -13,7 +13,7 @@
 
 ##  Tela 3 - Folder
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223534663-f72e8998-8223-4453-a322-9bdccfcacd4e.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/223647848-4fa2ac9c-58aa-4003-b757-4a22980b9a62.jpg" width="700px" />
 </div>
 
 ##  Tela 4 - Enchoice
