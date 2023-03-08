@@ -57,7 +57,13 @@
 		},
 		{
 			"label": "u_Radio"
+		},
+		{
+			"label": "u_Consulta"
+		},
+		{
+			"label": "u_msBrGet"
 		}
 	],
-	"lastProgramExecuted": "u_Radio"
+	"lastProgramExecuted": "u_msBrGet"
 }
