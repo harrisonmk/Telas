@@ -75,7 +75,10 @@
 		},
 		{
 			"label": "u_TWBrowche"
+		},
+		{
+			"label": "u_ConsuPa"
 		}
 	],
-	"lastProgramExecuted": "u_TWBrowse"
+	"lastProgramExecuted": "sigamdi"
 }
