@@ -21,6 +21,11 @@
 <img src="https://user-images.githubusercontent.com/20427134/223636605-3c8934f9-ad6e-445a-830a-a25f3b6eeacd.jpg" width="700px" />
 </div>
 
+##  Tela 5 - Busca Padrao
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/223636605-3c8934f9-ad6e-445a-830a-a25f3b6eeacd.jpg" width="700px" />
+</div>
+
 ##  Tela 6 - ComboBox
 <div align="center">
 <img src="https://user-images.githubusercontent.com/20427134/223646200-d9cac864-b44c-417c-b365-781f229923ab.jpg" width="700px" />
