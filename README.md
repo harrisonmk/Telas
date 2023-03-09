@@ -18,7 +18,7 @@
 
 ##  Tela 4 - Enchoice
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223636605-3c8934f9-ad6e-445a-830a-a25f3b6eeacd.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/224153267-88f4674b-a73f-45f6-9957-6675dabf4c90.jpg" width="700px" />
 </div>
 
 ##  Tela 5 - Busca Padrao
