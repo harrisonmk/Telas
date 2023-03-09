@@ -53,7 +53,7 @@
 
 ##  Tela 12 - TWBrowse
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/223903003-436c02cc-6aee-4f58-a42f-51dd3c9c6516.jpg" width="700px" />
 </div>
 
 ##  Tela 13 - TWBrowse com Legenda
