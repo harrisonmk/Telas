@@ -69,6 +69,12 @@
 		},
 		{
 			"label": "u_TWBrowse"
+		},
+		{
+			"label": "u_TWBroLeg"
+		},
+		{
+			"label": "u_TWBrowche"
 		}
 	],
 	"lastProgramExecuted": "u_TWBrowse"
