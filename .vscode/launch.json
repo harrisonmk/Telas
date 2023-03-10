@@ -78,7 +78,16 @@
 		},
 		{
 			"label": "u_ConsuPa"
+		},
+		{
+			"label": "u_TWBrowchec"
+		},
+		{
+			"label": "u_TWBrowchec1"
+		},
+		{
+			"label": "u_TWBrowCl"
 		}
 	],
-	"lastProgramExecuted": "sigamdi"
+	"lastProgramExecuted": "u_TWBrowCl"
 }
