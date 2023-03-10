@@ -66,3 +66,13 @@
 <img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
 </div>
 
+##  Tela 14 - TWBrowse com CheckBox
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
+</div>
+
+##  Tela 15 - TWBrowse com CheckBox e Legenda
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
+</div>
+
