@@ -1,6 +1,7 @@
 #include "TOTVS.CH"
 
-
+// u_TWBrowchec1
+//cria um TWBROWSE com Checkbox
 User Function TWBrowchec1()
 
 

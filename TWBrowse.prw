@@ -1,6 +1,7 @@
 #include "TOTVS.CH"
 
-
+// u_TWBrowse
+//cria um TWBROWSE Padrao
 User Function TWBrowse()
 
 	local oDlg as object

@@ -1,5 +1,7 @@
 #include "TOTVS.CH"
 
+//u_TWBroLeg
+//cria um TWBROWSE com legendas
 
 User Function TWBroLeg()
 

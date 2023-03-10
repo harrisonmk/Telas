@@ -1,6 +1,7 @@
 #include "TOTVS.CH"
 
-
+// u_TWBrowCl
+//cria um TWBROWSE com legendas e com checkbox
 User Function TWBrowCl()
 
 
