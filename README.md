@@ -68,7 +68,7 @@
 
 ##  Tela 14 - TWBrowse com CheckBox
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/224378473-d63101e3-aef3-4ed4-a5df-1051a5ff5b2e.jpg" width="700px" />
 </div>
 
 ##  Tela 15 - TWBrowse com CheckBox e Legenda
