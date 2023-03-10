@@ -73,6 +73,6 @@
 
 ##  Tela 15 - TWBrowse com CheckBox e Legenda
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/223873659-6c9fa711-b387-432d-aa72-cf108c37440a.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
 </div>
 
