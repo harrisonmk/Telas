@@ -1,8 +1,9 @@
 #Include 'TOTVS.CH'
 
+// U_Multi()
 User Function Multi()
 
-    
+    //Variaveis 
     Local aArea         := FWGetArea()
     Local nCorFundo     := RGB(238, 238, 238)
     Local nJanAltura    := 308

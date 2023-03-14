@@ -3,6 +3,7 @@
 //u_TWBroLeg
 //cria um TWBROWSE com legendas
 
+// U_TWBroLeg()
 User Function TWBroLeg()
 
 
@@ -29,6 +30,7 @@ User Function TWBroLeg()
 	oBrowse:bLDblClick := {|| aBrowse[oBrowse:nAt][1] := !aBrowse[oBrowse:nAt][1],;
 		oBrowse:DrawSelect()}
 
+    //Cria o botão com a funcao de fechar a tela
 	@ 160, 180 BUTTON "Botão Para Sair" SIZE 070, 020 PIXEL OF oDlg ACTION (oDlg:End())      
 
 	

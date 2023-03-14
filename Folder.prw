@@ -1,11 +1,17 @@
 #Include 'TOTVS.CH'
 
+//U_tFolder1()
 User Function tFolder1()
+
+//Variaveis
 Local oDlg    
 Local oFolder
      
+// Cria a tela principal       
 DEFINE DIALOG oDlg TITLE "Tela Customizada" FROM 0,0 TO 600,800 PIXEL
  
+
+//Cria o Folder 
 @ 10,15 FOLDER oFolder SIZE 260, 200 OF oDlg  PIXEL
  
 // adiciona as abas
@@ -15,6 +21,7 @@ oFolder:AddItem("Pasta 03",.T.)
 oFolder:AddItem("Pasta 04",.T.)
 oFolder:AddItem("Pasta 05",.T.)
  
+//Adiciona os textos 
 @ 10,10 SAY "Texto na Aba 01" OF oFolder:aDialogs[1] PIXEL
 @ 10,10 SAY "Texto na Aba 02" OF oFolder:aDialogs[2] PIXEL
 @ 10,10 SAY "Texto na Aba 03" OF oFolder:aDialogs[3] PIXEL
@@ -23,6 +30,7 @@ oFolder:AddItem("Pasta 05",.T.)
          
 oFolder:SetOption(1)
 
+//Cria o botão com a funcao de fechar a tela
 @ 160, 180 BUTTON "Botão Para Sair" SIZE 070, 020 PIXEL OF oDlg ACTION (oDlg:End())
  
 ACTIVATE DIALOG oDlg CENTER

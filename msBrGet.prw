@@ -1,10 +1,14 @@
 #include "totvs.ch"
  
+
+// U_msBrGet() 
 user function msBrGet()
  
+  //Variaveis
   local aDados := {}
   local oBrowse := nil
  
+ // Cria a tela principal 
   DEFINE MsDialog oDlg TITLE "Tela Customizada" FROM 180,180 TO 550,700 PIXEL           
  
     // Cria array com dados
@@ -32,6 +36,7 @@ user function msBrGet()
     TButton():new( 172, 102, "goTop()", oDlg, { || oBrowse:goTop(), oBrowse:setFocus() }, 40, 010,,, .F., .T., .F.,, .F.,,, .F. )
     TButton():new( 172, 152, "goBottom()", oDlg, { || oBrowse:goBottom(), oBrowse:setFocus() }, 40, 010,,, .F., .T., .F.,, .F.,,, .F. )
 
+    //Cria o botão com a funcao de fechar a tela
     @ 172, 200 BUTTON "Botao Para Sair" SIZE 050, 010 PIXEL OF oDlg ACTION (oDlg:End())
  
   ACTIVATE DIALOG oDlg CENTERED

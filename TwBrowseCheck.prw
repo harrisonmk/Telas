@@ -2,9 +2,10 @@
 
 // u_TWBrowchec1
 //cria um TWBROWSE com Checkbox
+// U_TWBrowchec1()
 User Function TWBrowchec1()
 
-
+    //Variaveis
 	local oDlg as object
 	local oBrowse as object
 	local aBrowse as array
@@ -35,6 +36,8 @@ User Function TWBrowchec1()
 
 	oBrowse:bLDblClick := {|| aBrowse[oBrowse:nAt][1] := !aBrowse[oBrowse:nAt][1], oBrowse:drawSelect() }
 
+
+    //Cria o botão com a funcao de fechar a tela
 	@ 150, 180 BUTTON "Botão Para Sair" SIZE 070, 020 PIXEL OF oDlg ACTION (oDlg:End())
 
 //Activate( [ uParam1 ], [ uParam2 ], [ uParam3 ], [ lCentered ], [ bValid ], [ uParam6 ], [ bInit ], [ uParam8 ], [ uParam9 ] )
