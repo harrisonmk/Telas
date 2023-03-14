@@ -76,3 +76,18 @@
 <img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
 </div>
 
+##  Tela 16 - AxCadastro Modelo 1
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
+</div>
+
+##  Tela 17 - AxCadastro Modelo 2
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
+</div>
+
+##  Tela 18 - AxCadastro Modelo 3
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
+</div>
+
