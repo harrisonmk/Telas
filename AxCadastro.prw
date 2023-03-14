@@ -2,15 +2,15 @@
 #INCLUDE 'PROThEUS.CH'
 #INCLUDE 'RWMAKE.CH'
 
-
+// U_AxCad()
 USER FUNCTION AxCad()
 
 
 
-	PRIVATE cAlisas := "SA2"
-	PRIVATE cCadastro  := "Cadastro Fornecedores Teste"
-	PRIVATE cFunExc := "U_exclusao()"
-	PRIVATE cFunAlt := "U_altera()"
+	PRIVATE cAlisas := "SA2" //tabela de fornecedores
+	PRIVATE cCadastro  := "Cadastro Fornecedores Teste" //titulo da tela
+	PRIVATE cFunExc := "U_exclusao()" //funcao de exclusao
+	PRIVATE cFunAlt := "U_altera()" //funcao de alteracao e inclusao
 
 
 
