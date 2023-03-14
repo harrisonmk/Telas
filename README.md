@@ -78,7 +78,7 @@
 
 ##  Tela 16 - AxCadastro Modelo 1
 <div align="center">
-<img src="https://user-images.githubusercontent.com/20427134/224378724-b2d340f7-8033-48c0-9be2-5b6c95d07131.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/20427134/224895280-0c66e8d6-a98c-41bc-af88-72e25ab45c0b.jpg" width="700px" />
 </div>
 
 ##  Tela 17 - AxCadastro Modelo 2
